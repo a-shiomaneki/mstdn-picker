@@ -1,6 +1,7 @@
 
 window.addEventListener('load', function(){
     var INSTANCES = [
+        "vocalodon.net",
         "mstdn.guru",
         "mstdn.jp",
         "mstdn.io",
